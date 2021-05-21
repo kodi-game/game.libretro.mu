@@ -2,10 +2,10 @@
 <settings>
 	<category label="30000">
 		<setting label="30001" type="select" id="palm_emu_cpu_speed" values="1.0|1.5|2.0|2.5|3.0|0.5" default="1.0"/>
-		<setting label="30002" type="select" id="palm_emu_disable_graffiti" values="disabled|enabled" default="disabled"/>
+		<setting label="30002" type="select" id="palm_emu_feature_synced_rtc" values="disabled|enabled" default="disabled"/>
 		<setting label="30003" type="select" id="palm_emu_feature_durable" values="disabled|enabled" default="disabled"/>
-		<setting label="30004" type="select" id="palm_emu_feature_synced_rtc" values="disabled|enabled" default="disabled"/>
-		<setting label="30005" type="select" id="palm_emu_os_version" values="Palm m515/Palm OS 4.1|Tungsten T3/Palm OS 5.2.1|Tungsten T3/Palm OS 6.0|Palm m500/Palm OS 4.0" default="Palm m515/Palm OS 4.1"/>
-		<setting label="30006" type="select" id="palm_emu_use_joystick_as_mouse" values="disabled|enabled" default="disabled"/>
+		<setting label="30004" type="select" id="palm_emu_use_joystick_as_mouse" values="disabled|enabled" default="disabled"/>
+		<setting label="30005" type="select" id="palm_emu_disable_graffiti" values="disabled|enabled" default="disabled"/>
+		<setting label="30006" type="select" id="palm_emu_os_version" values="Palm m515/Palm OS 4.1|Tungsten T3/Palm OS 5.2.1|Tungsten T3/Palm OS 6.0|Palm m500/Palm OS 4.0" default="Palm m515/Palm OS 4.1"/>
 	</category>
 </settings>
