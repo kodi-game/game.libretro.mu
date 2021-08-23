@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > 19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? 1 : 2);\n"
 
+msgctxt "Addon Summary"
+msgid "Palm OS (Mu) v1.3.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.
+
+Supported files: .prc, .pqa, .img"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

@@ -14,12 +14,14 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Palm OS (Mu) v1.3.0</summary>
-		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.
 
 Supported files: .prc, .pqa, .img</description>
 		<license>Non-commercial</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mu</source>
+		<summary lang="en_GB">Palm OS (Mu) v1.3.0</summary>
+		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.
+
+Supported files: .prc, .pqa, .img</description>
 	</extension>
 </addon>

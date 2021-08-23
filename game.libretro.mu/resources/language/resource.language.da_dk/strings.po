@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.5.1\n"
 
+msgctxt "Addon Summary"
+msgid "Palm OS (Mu) v1.3.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.
+
+Supported files: .prc, .pqa, .img"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Indstillinger"
