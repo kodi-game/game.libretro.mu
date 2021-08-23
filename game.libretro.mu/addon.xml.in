@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mu"
 		name="Palm OS (Mu)"
-		version="1.2.0.7"
+		version="1.3.0.8"
 		provider-name="guicrith / meepingsnesroms">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -14,7 +14,7 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Palm OS (Mu) v1.2.0</summary>
+		<summary lang="en_GB">Palm OS (Mu) v1.3.0</summary>
 		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.
 
 Supported files: .prc, .pqa, .img</description>
