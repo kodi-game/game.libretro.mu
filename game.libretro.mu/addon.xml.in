@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mu</source>
 		<summary lang="en_GB">Palm OS (Mu) v1.3.0</summary>
-		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.Supported files: .prc, .pqa, .img</description>
+		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.</description>
 	</extension>
 </addon>
