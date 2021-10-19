@@ -4,9 +4,21 @@
 # Palm OS (Mu)
 
 ### Description
+
 Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.
 
 ### License
+
 Non-commercial
 
+### Icon
 
+Help make me an icon!
+
+### Fanart
+
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!
