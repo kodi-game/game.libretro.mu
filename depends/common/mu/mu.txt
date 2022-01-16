@@ -1,1 +1,1 @@
-mu https://github.com/libretro/Mu/archive/7ead06657250228786e51f2336fd1c45ffbe358f.tar.gz
+mu https://github.com/libretro/Mu/archive/be844bf74d6b6f2610ac5fd03b7552daadfb9752.tar.gz
