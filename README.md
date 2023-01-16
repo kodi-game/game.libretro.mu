@@ -9,7 +9,7 @@ Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that
 
 ### License
 
-Non-commercial
+CC BY-NC 3.0 US (Non-commercial)
 
 ### Icon
 
