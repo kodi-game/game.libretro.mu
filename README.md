@@ -13,7 +13,7 @@ CC BY-NC 3.0 US (Non-commercial)
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.mu/resources/icon.png)
 
 ### Fanart
 

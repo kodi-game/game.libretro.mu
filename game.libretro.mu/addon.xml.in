@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mu"
 		name="Palm OS (Mu)"
-		version="1.3.1.16"
+		version="1.3.1.17"
 		provider-name="guicrith / meepingsnesroms; Stephanie Gawroriski (Xer Shadow Tail)">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -18,6 +18,9 @@
 		<license>CC BY-NC 3.0 US (Non-commercial)</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mu</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Palm OS (Mu) v1.3.0</summary>
 		<description lang="da_DK">Mu er en ny Palm OS-emulator, der retter sig mod kompatibilitet, hastighed og nøjagtighed i den rækkefølge.</description>
 		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.</description>
