@@ -13,7 +13,7 @@ CC BY-NC 3.0 US (Non-commercial)
 
 ### Icon
 
-![Icon](game.libretro.mu/resources/icon.png)
+![Palm OS (Mu) icon](game.libretro.mu/resources/icon.png)
 
 ### Fanart
 
