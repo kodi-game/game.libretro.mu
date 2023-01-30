@@ -24,6 +24,7 @@
 		<summary lang="en_GB">Palm OS (Mu) v1.3.0</summary>
 		<description lang="da_DK">Mu er en ny Palm OS-emulator, der retter sig mod kompatibilitet, hastighed og nøjagtighed i den rækkefølge.</description>
 		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.</description>
+		<description lang="es_ES">Mu es un nuevo emulador de Palm OS cuyo objetivo es la compatibilidad, la velocidad y la precisión, en ese orden.</description>
 		<description lang="it_IT">Mu è un nuovo emulatore di Palm OS che mira, nell&apos;ordine, a compatibilità, velocità e precisione.</description>
 		<description lang="zh_CN">Mu 是一款新的 Palm OS 仿真器，其目标是兼容性、速度和准确性。</description>
 	</extension>
