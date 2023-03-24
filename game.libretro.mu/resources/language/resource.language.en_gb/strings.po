@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Palm OS (Mu) v1.3.0"
+msgid "Palm OS (Mu)"
 msgstr ""
 
 msgctxt "Addon Description"
