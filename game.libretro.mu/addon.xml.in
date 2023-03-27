@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Palm OS (Mu)</summary>
+		<summary lang="es_ES">Palm OS (Mu)</summary>
 		<description lang="da_DK">Mu er en ny Palm OS-emulator, der retter sig mod kompatibilitet, hastighed og nøjagtighed i den rækkefølge.</description>
 		<description lang="de_DE">Mu ist ein neuer Palm-OS-Emulator, der auf Kompatibilität, Geschwindigkeit und Genauigkeit abzielt – in dieser Reihenfolge.</description>
 		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.</description>
