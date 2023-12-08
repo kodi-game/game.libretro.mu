@@ -25,6 +25,6 @@
 		<summary lang="en_GB">Palm OS (Mu)</summary>
 		<summary lang="es_ES">Palm OS (Mu)</summary>
 		<summary lang="zh_CN">Palm OS (Mu)</summary>
-		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.[CR][CR]Note: The BIOS files [I]palmos41-en-m515.rom[/I] and [I]palmos52-en-t3.rom[/I] are needed.</description>
+		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.[CR][CR]Note: The BIOS files [I]41-en-m515.rom[/I] and [I]palmos52-en-t3.rom[/I] are needed.</description>
 	</extension>
 </addon>
