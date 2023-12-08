@@ -22,8 +22,8 @@ msgid "Palm OS (Mu)"
 msgstr "Palm OS (Mu)"
 
 msgctxt "Addon Description"
-msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order."
-msgstr "Mu 是一款新的 Palm OS 仿真器，其目标是兼容性、速度和准确性。"
+msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.[CR][CR]Note: The BIOS files [I]41-en-m515.rom[/I] and [I]palmos52-en-t3.rom[/I] are needed."
+msgstr ""
 
 msgctxt "#30000"
 msgid "Settings"
@@ -52,3 +52,7 @@ msgstr "禁用涂鸦区域"
 msgctxt "#30006"
 msgid "OS Version"
 msgstr "操作系统版本"
+
+#~ msgctxt "Addon Description"
+#~ msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order."
+#~ msgstr "Mu 是一款新的 Palm OS 仿真器，其目标是兼容性、速度和准确性。"

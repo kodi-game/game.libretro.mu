@@ -22,8 +22,8 @@ msgid "Palm OS (Mu)"
 msgstr "Palm OS (Mu)"
 
 msgctxt "Addon Description"
-msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order."
-msgstr "Mu er en ny Palm OS-emulator, der retter sig mod kompatibilitet, hastighed og nøjagtighed i den rækkefølge."
+msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.[CR][CR]Note: The BIOS files [I]41-en-m515.rom[/I] and [I]palmos52-en-t3.rom[/I] are needed."
+msgstr ""
 
 msgctxt "#30000"
 msgid "Settings"
@@ -52,3 +52,7 @@ msgstr "Deaktiver graffiti-område"
 msgctxt "#30006"
 msgid "OS Version"
 msgstr "OS-version"
+
+#~ msgctxt "Addon Description"
+#~ msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order."
+#~ msgstr "Mu er en ny Palm OS-emulator, der retter sig mod kompatibilitet, hastighed og nøjagtighed i den rækkefølge."
