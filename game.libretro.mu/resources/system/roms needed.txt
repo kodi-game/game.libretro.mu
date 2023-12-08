@@ -1,0 +1,3 @@
+Copy "palmos41-en-m515.rom" and "palmos52-en-t3.rom" to this directory.
+
+(Optional) Copy "bootloader-en-m515.rom" to this directory.
