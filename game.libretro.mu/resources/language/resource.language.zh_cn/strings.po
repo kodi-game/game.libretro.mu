@@ -22,7 +22,7 @@ msgid "Palm OS (Mu)"
 msgstr "Palm OS (Mu)"
 
 msgctxt "Addon Description"
-msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.[CR][CR]Note: The BIOS files [I]41-en-m515.rom[/I] and [I]palmos52-en-t3.rom[/I] are needed."
+msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.[CR][CR]Note: The BIOS files [I]palmos41-en-m515.rom[/I] and [I]palmos52-en-t3.rom[/I] are needed."
 msgstr ""
 
 msgctxt "#30000"
