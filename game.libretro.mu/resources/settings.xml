@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="palm_emu_cpu_speed" values="1.0|1.5|2.0|2.5|3.0|0.5" default="1.0"/>
 		<setting label="30002" type="select" id="palm_emu_feature_synced_rtc" values="disabled|enabled" default="disabled"/>
 		<setting label="30003" type="select" id="palm_emu_feature_durable" values="disabled|enabled" default="disabled"/>
