@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.[CR][CR]Note: The BIOS files [I]palmos41-en-m515.rom[/I] and [I]palmos52-en-t3.rom[/I] are needed."
 msgstr "Mu es un nuevo emulador de Palm OS que busca compatibilidad, velocidad y precisión, en ese orden[CR][CR]Nota: Se necesitan los archivos BIOS [I]palmos41-en-m515.rom[/I] y [I]palmos52-en-t3.rom[/I]."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "CPU Speed"
 msgstr "Velocidad CPU"
@@ -52,6 +48,10 @@ msgstr "Desactivar Área de Graffiti"
 msgctxt "#30006"
 msgid "OS Version"
 msgstr "Versión del SO"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
 
 #~ msgctxt "Addon Description"
 #~ msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order."

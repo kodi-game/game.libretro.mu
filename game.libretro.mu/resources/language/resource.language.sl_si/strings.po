@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.[CR][CR]Note: The BIOS files [I]palmos41-en-m515.rom[/I] and [I]palmos52-en-t3.rom[/I] are needed."
 msgstr "Mu je nov emulator Palm OS, ki cilja na združljivost, hitrost in natančnost v tem vrstnem redu.[CR][CR]Opomba: Datoteki BIOS-a [I]palmos41-en-m515.rom[/I] in [I]palmos52-en- t3.rom[/I] so potrebni."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "CPU Speed"
 msgstr "Hitrost procesorja"
@@ -52,3 +48,7 @@ msgstr "Onemogoči območje grafitov"
 msgctxt "#30006"
 msgid "OS Version"
 msgstr "Različica OS"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"
