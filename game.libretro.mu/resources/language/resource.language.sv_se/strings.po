@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mu\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 20:36i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:06+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mu/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "Mu är en ny Palm OS-emulator som är inriktad på kompatibilitet, hasti
 
 msgctxt "#30001"
 msgid "CPU Speed"
-msgstr ""
+msgstr "CPU-hastighet"
 
 msgctxt "#30002"
 msgid "Force Match System Clock"
