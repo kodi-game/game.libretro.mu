@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mu\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 20:36i\n"
-"PO-Revision-Date: 2025-04-17 04:27+0000\n"
+"PO-Revision-Date: 2025-04-22 22:51+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mu/sv_se/>\n"
 "Language: sv_se\n"
@@ -37,10 +37,9 @@ msgctxt "#30003"
 msgid "Ignore Invalid Behavior"
 msgstr "Ignorera ogiltigt beteende"
 
-#, fuzzy
 msgctxt "#30004"
 msgid "Use Left Joystick As Mouse"
-msgstr "Använd vänster joystick som mus"
+msgstr "Använd vänster styrspak som mus"
 
 #, fuzzy
 msgctxt "#30005"
