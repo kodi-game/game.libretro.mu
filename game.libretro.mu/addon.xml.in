@@ -31,5 +31,6 @@
 		<description lang="es_ES">Mu es un nuevo emulador de Palm OS que busca compatibilidad, velocidad y precisión, en ese orden[CR][CR]Nota: Se necesitan los archivos BIOS [I]palmos41-en-m515.rom[/I] y [I]palmos52-en-t3.rom[/I].</description>
 		<description lang="sl_SI">Mu je nov emulator Palm OS, ki cilja na združljivost, hitrost in natančnost v tem vrstnem redu.[CR][CR]Opomba: Datoteki BIOS-a [I]palmos41-en-m515.rom[/I] in [I]palmos52-en- t3.rom[/I] so potrebni.</description>
 		<description lang="sv_SE">Mu är en ny Palm OS-emulator som är inriktad på kompatibilitet, hastighet och noggrannhet i nämnd ordning.[CR][CR]Obs: BIOS-filerna [I]palmos41-en-m515.rom[/I] och [I]palmos52-en-t3.rom[/I] behövs.</description>
+		<description lang="zh_CN">Mu 是一个新的 Palm OS 模拟器，以该顺序的兼容性，速度和准确性为目标。[CR][CR]注意：BIOS 文件[I]palmos41-en-m515。rom[/I]和[I]palmos52-en-t3。需要 rom[/I]。</description>
 	</extension>
 </addon>
