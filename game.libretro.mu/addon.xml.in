@@ -23,6 +23,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="cs_CZ">Palm OS (Mu)</summary>
 		<summary lang="da_DK">Palm OS (Mu)</summary>
 		<summary lang="en_GB">Palm OS (Mu)</summary>
 		<summary lang="es_ES">Palm OS (Mu)</summary>
@@ -30,6 +31,7 @@
 		<summary lang="ru_RU">Palm OS (Mu)</summary>
 		<summary lang="sv_SE">Palm OS (Mu)</summary>
 		<summary lang="zh_CN">Palm OS (Mu)</summary>
+		<description lang="cs_CZ">Mu je nový emulátor Palm OS zaměřený v tomto pořadí na kompatibilitu, rychlost a přesnost.[CR][CR]Poznámka: Jsou vyžadovány soubory BIOSu [I]palmos41-en-m515.rom[/I] a [I]palmos52-en-t3.rom[/I].</description>
 		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.[CR][CR]Note: The BIOS files [I]palmos41-en-m515.rom[/I] and [I]palmos52-en-t3.rom[/I] are needed.</description>
 		<description lang="es_ES">Mu es un nuevo emulador de Palm OS que busca compatibilidad, velocidad y precisión, en ese orden[CR][CR]Nota: Se necesitan los archivos BIOS [I]palmos41-en-m515.rom[/I] y [I]palmos52-en-t3.rom[/I].</description>
 		<description lang="ga">Is aithriseoir nua Palm OS é Mu atá dírithe ar chomhoiriúnacht, luas agus cruinneas san ord sin.[CR][CR]Nóta: Tá na comhaid BIOS [I]palmos41-en-m515.rom[/I] agus [I]palmos52-en-t3.rom[/I] ag teastáil.</description>
