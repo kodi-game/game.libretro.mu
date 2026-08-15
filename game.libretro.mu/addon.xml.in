@@ -28,6 +28,7 @@
 		<summary lang="en_GB">Palm OS (Mu)</summary>
 		<summary lang="es_ES">Palm OS (Mu)</summary>
 		<summary lang="ga">Palm OS (Mu)</summary>
+		<summary lang="it_IT">Palm OS (Mu)</summary>
 		<summary lang="ru_RU">Palm OS (Mu)</summary>
 		<summary lang="sv_SE">Palm OS (Mu)</summary>
 		<summary lang="zh_CN">Palm OS (Mu)</summary>
@@ -35,6 +36,7 @@
 		<description lang="en_GB">Mu is a new Palm OS emulator targeting compatibility, speed and accuracy in that order.[CR][CR]Note: The BIOS files [I]palmos41-en-m515.rom[/I] and [I]palmos52-en-t3.rom[/I] are needed.</description>
 		<description lang="es_ES">Mu es un nuevo emulador de Palm OS que busca compatibilidad, velocidad y precisión, en ese orden[CR][CR]Nota: Se necesitan los archivos BIOS [I]palmos41-en-m515.rom[/I] y [I]palmos52-en-t3.rom[/I].</description>
 		<description lang="ga">Is aithriseoir nua Palm OS é Mu atá dírithe ar chomhoiriúnacht, luas agus cruinneas san ord sin.[CR][CR]Nóta: Tá na comhaid BIOS [I]palmos41-en-m515.rom[/I] agus [I]palmos52-en-t3.rom[/I] ag teastáil.</description>
+		<description lang="it_IT">Mu è un nuovo emulatore Palm OS che punta su compatibilità, velocità e precisione, in quest&apos;ordine.[CR][CR]Nota: sono necessari i file BIOS [I]palmos41-en-m515.rom[/I] e [I]palmos52-en-t3.rom[/I].</description>
 		<description lang="ru_RU">Mu — это новый эмулятор Palm OS, нацеленный на совместимость, скорость и точность в указанном порядке.[CR][CR]Примечание: требуются файлы BIOS [I]palmos41-en-m515.rom[/I] и [I]palmos52-en-t3.rom[/I].</description>
 		<description lang="sl_SI">Mu je nov emulator Palm OS, ki cilja na združljivost, hitrost in natančnost v tem vrstnem redu.[CR][CR]Opomba: Datoteki BIOS-a [I]palmos41-en-m515.rom[/I] in [I]palmos52-en- t3.rom[/I] so potrebni.</description>
 		<description lang="sv_SE">Mu är en ny Palm OS-emulator som är inriktad på kompatibilitet, hastighet och noggrannhet i nämnd ordning.[CR][CR]Obs: BIOS-filerna [I]palmos41-en-m515.rom[/I] och [I]palmos52-en-t3.rom[/I] behövs.</description>
