@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mu"
 		name="Palm OS (Mu)"
-		version="1.3.3.41"
+		version="1.3.3.42"
 		provider-name="guicrith / meepingsnesroms; Stephanie Gawroriski (Xer Shadow Tail)">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -14,7 +14,7 @@
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
-		<requires_opengl>false</requires_opengl>
+		<libretro_core>mu_libretro</libretro_core>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>CC BY-NC 3.0 US (Non-commercial)</license>
